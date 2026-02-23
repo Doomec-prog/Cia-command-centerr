@@ -1,0 +1,5 @@
+{
+  "name": "Global Threat Monitor",
+  "description": "A CIA-style command console with 3D globe, tactical map, live camera feeds, and data streams.",
+  "requestFramePermissions": []
+}
